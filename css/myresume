@@ -1,5 +1,10 @@
 head{
-	background-color: #C32F27
+	background-color: #C32F27;
 }
 
-.mb-1,.mb-5{color: D8572A}
+.mb-1,.mb{color: #D8572A;}
+
+.btn btn-primary btn-xl js-scroll-trigger{
+	background-color: #D8572A;
+	color:#32F27;
+}
