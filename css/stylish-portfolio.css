@@ -97,13 +97,14 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-   background-color: #C32F27;
+  background-color: #C32F27;
 }
 
 .masthead h1 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  color:#FFEC00;
 }
 
 @media (min-width: 992px) {
@@ -112,6 +113,7 @@ h6 {
   }
   .masthead h1 {
     font-size: 5.5rem;
+    color:#FFEC00;
   }
 }
 
